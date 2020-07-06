@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MyReactNative</string>
+    <string name="app_name">MovieGo</string>
+    <string name="facebook_app_id">975455836210257</string>
 </resources>
